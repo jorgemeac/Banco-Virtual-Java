@@ -1,6 +1,6 @@
 
 ## 🚀 Sobre mim
-Sou uma pessoa desenvolvedora Back-End em formação. Iniciei no Front-End com HTML, CSS e JavaScript como parte da selação do programa ONE da Oracle, Turma 6.
+Sou uma pessoa desenvolvedora Back-End em formação. Iniciei no Front-End com HTML, CSS e JavaScript como parte da selação do programa ONE da Oracle, Turma 6 e através da DIO.
 
 Sou professor de Física, Matemática e Robótica Educacional e atualmente estou em fase de transição de carreira. Muito prazer, me chamo
 
